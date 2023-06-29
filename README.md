@@ -2,8 +2,8 @@
 
 <param ve-config 
        title="Vanilla"
-       source-image="[https://commons.wikimedia.org/wiki/File:Spider_lily,_Yokohama_IMG_3544.jpg](https://upload.wikimedia.org/wikipedia/commons/1/17/Spider_lily%2C_Yokohama_IMG_3544.jpg)"
-       banner="[https://commons.wikimedia.org/wiki/File:Spider_lily,_Yokohama_IMG_3544.jpg](https://upload.wikimedia.org/wikipedia/commons/1/17/Spider_lily%2C_Yokohama_IMG_3544.jpg)"
+       source-image="https://upload.wikimedia.org/wikipedia/commons/1/17/Spider_lily%2C_Yokohama_IMG_3544.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/1/17/Spider_lily%2C_Yokohama_IMG_3544.jpg"
        author="Jason Lopez"
        layout="vertical">
 
