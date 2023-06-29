@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Vanilla"
-       souce-image""https://commons.wikimedia.org/wiki/File:Spider_lily,_Yokohama_IMG_3544.jpg"
+       souce-image="https://commons.wikimedia.org/wiki/File:Spider_lily,_Yokohama_IMG_3544.jpg"
        banner="https://commons.wikimedia.org/wiki/File:Spider_lily,_Yokohama_IMG_3544.jpg"
        author="Jason Lopez"
        layout="vertical">
