@@ -16,4 +16,4 @@
 <param ve-entity eid="Q84263196" title=“COVID-19 pandemic”>
 <param ve-entity eid="Q160066" title="straw">
 
-# Vanillla
+# Vanilla
