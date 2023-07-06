@@ -16,5 +16,5 @@
 <param ve-entity eid="Q84263196" title=“COVID-19 pandemic”>
 <param ve-entity eid="Q160066" title="straw">
 <param ve-video vid="_VQ-ckQPD2I">
-
+<param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000306647">
 # Vanilla
