@@ -21,7 +21,7 @@
 
 ### Showing a Timeline
 <param ve-compare sync url="https://upload.wikimedia.org/wikipedia/commons/4/40/Vanilla_planifolia_1.jpg">
-<param ve-compare sync url="https://upload.wikimedia.org/wikipedia/commons/4/43/Vanillanice-Madagascar-vanilla-grading.png?20230628154350">
+<param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/4/43/Vanillanice-Madagascar-vanilla-grading.png?20230628154350">
 
        
 # Vanilla
