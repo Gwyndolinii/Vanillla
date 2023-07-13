@@ -18,5 +18,10 @@
 <param ve-video vid="_VQ-ckQPD2I">
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000306647">
 <param ve-iframe src="https://archive.org/details/biostor-94169/page/n3/mode/2up?q=vanilla+planifolia">
+
+### Showing a Timeline
+<param ve-compare sync url="https://upload.wikimedia.org/wikipedia/commons/4/40/Vanilla_planifolia_1.jpg">
+<param ve-compare sync url="https://upload.wikimedia.org/wikipedia/commons/4/43/Vanillanice-Madagascar-vanilla-grading.png?20230628154350">
+
        
 # Vanilla
