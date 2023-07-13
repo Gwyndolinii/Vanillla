@@ -24,6 +24,7 @@ timenav-position="bottom"
 hash-bookmark="false"
 initial-zoom="1"
 height="750">
+<param ve-map basemap="Esri_WorldPhysical">
 
 ### Showing a Timeline
 <param ve-compare sync url="https://upload.wikimedia.org/wikipedia/commons/4/40/Vanilla_planifolia_1.jpg">
