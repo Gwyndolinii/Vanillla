@@ -25,7 +25,7 @@ hash-bookmark="false"
 initial-zoom="1"
 height="750">
 <param ve-map basemap="Esri_WorldPhysical">
-
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Cannabis_leaf.svg/640px-Cannabis_leaf.svg.png"
 ### Showing a Timeline
 <param ve-compare sync url="https://upload.wikimedia.org/wikipedia/commons/4/40/Vanilla_planifolia_1.jpg">
 <param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/4/43/Vanillanice-Madagascar-vanilla-grading.png?20230628154350">
