@@ -36,3 +36,4 @@ height="750">
 Paraagraph Paragraph Paragraph
 
 <param ve-map title="Map">
+<param ve-map geojson url="https://raw.githubusercontent.com/Gwyndolinii/Vanillla/main/Zawudro">
